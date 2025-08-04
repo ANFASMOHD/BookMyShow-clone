@@ -2,7 +2,7 @@ import React, { useEffect, useLayoutEffect, useRef, useState } from "react";
 import img1 from "../assets/banner1.png";
 import img2 from "../assets/banner2.jpg";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import "../Components/banner.css";
+import "../Components/Banner.css";
 import bannergif from "../assets/heade icons/bannersmscreen.gif";
 import bannerimg from "../assets/heade icons/bannermd.png";
 
